@@ -1,4 +1,5 @@
 import streamlit as st
+st.write("✅ App is starting...")
 from prediction_helper import predict
 
 # Define the page layout
